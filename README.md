@@ -23,7 +23,7 @@ Flixx is an app that allows users to browse movies from the [The Movie Database 
 ### App Walkthrough GIF
 
 
-<img src="http://i.imgur.com/vrkBsV1h.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/3rSmT9K.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Describe any challenges encountered while building the app.
